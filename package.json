@@ -2,7 +2,7 @@
   "name": "redux-saga-tester",
   "version": "1.0.1",
   "description": "Full redux environment testing helper for redux-saga",
-  "main": "src/SagaTester.js",
+  "main": "dist/SagaTester.js",
   "scripts": {
     "lint": "eslint './src/**/*.js' './test/**/*.js' './examples/**/*.js'",
     "examples": "mocha --compilers js:babel-register './examples/**/*.js'",
